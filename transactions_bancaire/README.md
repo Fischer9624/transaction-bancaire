@@ -67,3 +67,5 @@ Code
 ├── scripts/             # Scripts Python (KPI, règles métiers)
 ├── visuals/             # Graphiques matplotlib/plotly
 └── README.md            # Documentation du projet
+
+👨‍💻 Auteur Aristide Gildas Ngoma Mbambi Data Analyst | SQL | Python | Excel
